@@ -2,7 +2,6 @@
 
 import math
 import struct
-from decimal import Decimal
 from typing import Union
 
 class ExNumber(float):
